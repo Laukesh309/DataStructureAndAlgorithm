@@ -38,7 +38,7 @@ public class quickSort {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 6, 3, 9, 8, 2, 5 };
+        int arr[] = { 6, 3, 9, 8, 2, 5, -5 };
         quickSortImp(arr, 0, arr.length - 1);
         printArray(arr);
 
