@@ -50,7 +50,7 @@ public class wordBrakeProblem {
         for (int i = 0; i < str.length; i++) {
             buildTrie(str[i]);
         }
-        String key = "ilikesams";
+        String key = "ilikemobile";
 
         System.out.println(isValid(key));
 
