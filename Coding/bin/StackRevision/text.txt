@@ -1,0 +1,2 @@
+https://cpd-cpd-instance.apps.wxg511nfs417gpu62-1.cp.fyre.ibm.com/ml/tunes/28b5df78-2f10-4880-8b21-60069d043207/configure?project_id=f673367e-24de-415e-94de-94c489fa7d5d&context=wx
+https://cpd-cpd-instance.apps.wxg511nfs417gpu62-1.cp.fyre.ibm.com/ml/tunes/759115ef-5b7c-4525-8780-76754f8154c7/train?project_id=f673367e-24de-415e-94de-94c489fa7d5d&context=wx&training_id=09fd475e-188e-45cc-95f7-db0357190515

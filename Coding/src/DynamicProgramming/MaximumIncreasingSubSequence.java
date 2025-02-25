@@ -57,7 +57,7 @@ public class MaximumIncreasingSubSequence {
 
     public static void main(String[] args) {
 
-        int arr[] = { 50, 3, 10, 7, 40, 80 };
+        int arr[] = { 7, 7, 7, 7, 7, 7, 7 };
         System.out.println(findMaxIncreasingCommonSubSequence(arr, arr.length - 1, arr[arr.length - 1], 0));
         System.out.println(findLangestCommanIncreasingTabulisation(arr));
 
