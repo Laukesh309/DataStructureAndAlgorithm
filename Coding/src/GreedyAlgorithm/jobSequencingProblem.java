@@ -53,7 +53,7 @@ public class jobSequencingProblem {
         totalResult[0] = totalCount;
         totalResult[1] = totalProfit;
 
-        return totalResult;
+        // return totalResult;
 
     }
 

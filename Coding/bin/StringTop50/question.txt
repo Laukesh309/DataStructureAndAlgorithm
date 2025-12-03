@@ -1,0 +1,19 @@
+Easy Problems
+
+    Palindrome Check ->    https: //www.geeksforgeeks.org/palindrome-string/
+    Reverse a String ->    https: //www.geeksforgeeks.org/reverse-a-string/
+    Reverse words in a given string -> https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1 (!= string comparison not work but use equals operator)
+    Check for Rotation -->https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/
+    First Non Repeating -->https://www.geeksforgeeks.org/given-a-string-find-its-first-non-repeating-character/
+    Longest Common Prefix -->https://www.geeksforgeeks.org/longest-common-prefix-using-sorting/
+    Roman Number to Integer --> https://www.geeksforgeeks.org/roman-number-to-integer/
+    Integer to Roman  --> https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-to-roman-numerals/
+    Closest Strings  -->
+    Divisible by 7
+    Encrypt the String – II
+    Equal point in a string of brackets
+    Isomorphic Strings
+    Check if two strings are k-anagrams or not
+    Panagram Checking
+    Minimum Deletions
+    Number of Distinct Subsequences
